@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "proyecto-1"
+version = "0.0.1"
+description = "Paquetes de estadistica"
+authors = ["Isaac"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+numpy = "^2.1.1"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
+scikit-learn = "^1.5.1"
+statsmodels = "^0.14.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
