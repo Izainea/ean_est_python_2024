@@ -17,6 +17,7 @@ statsmodels = "^0.14.2"
 plotly = "^5.24.1"
 nbformat = "^5.10.4"
 sympy = "^1.13.3"
+ucimlrepo = "^0.0.7"
 
 
 [build-system]
